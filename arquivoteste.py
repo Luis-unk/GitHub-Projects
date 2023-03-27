@@ -16,3 +16,4 @@ elif ident=="M" or "m":
     altura=float(input("Digite sua altura:"))
     peso_ideal=(62.1*altura)-44.7
     print(f"Seu peso ideal é {peso_ideal:.2f}kg")
+#testando
